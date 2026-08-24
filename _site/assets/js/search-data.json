@@ -1,0 +1,212 @@
+{"0": {
+    "doc": "Real-World Robot Learning",
+    "title": "Real-World Robot Learning",
+    "content": "Spring 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"1": {
+    "doc": "Real-World Robot Learning",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/#announcements",
+    
+    "relUrl": "/#announcements"
+  },"2": {
+    "doc": "Real-World Robot Learning",
+    "title": "First day of class.",
+    "content": "Aug 26 &middot; 0 min read I will be giving a talk at the Meta workshop on egocentric perception on Aug 25-26. The first day of class will be after the workshop. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"3": {
+    "doc": "Real-World Robot Learning",
+    "title": "Course Overview",
+    "content": "Why don’t we yet have a foundation model that can operate robots in the physical world? What makes applying the standard pre-training approach so uniquely challenging in robotics? And what recent advances are pushing the boundaries of what’s possible in real-world applications? . This course offers a structured framework to explore these questions. We will study the mathematical foundations of techniques for learning-based decision-making and examine how these methods are deployed in robotic systems. Through a combination of lectures, hands-on projects (including a drone race!), and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics. Prerequisites . This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520). ",
+    "url": "/#course-overview",
+    
+    "relUrl": "/#course-overview"
+  },"4": {
+    "doc": "Real-World Robot Learning",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/#schedule",
+    
+    "relUrl": "/#schedule"
+  },"5": {
+    "doc": "Real-World Robot Learning",
+    "title": "Foundation",
+    "content": "AUG 28 Intro Syllabus, Slides SEP 2 What is a Robot? Slides SEP 4 Intro to Probability I Slides SEP 9 Intro to Probability II Slides ",
+    "url": "/#foundation",
+    
+    "relUrl": "/#foundation"
+  },"6": {
+    "doc": "Real-World Robot Learning",
+    "title": "Phase 1 Race",
+    "content": "SEP 11 Building a Simulator Slides SEP 16 Sim2Real: Intro &amp; Basics Slides Race challenge is out . SEP 18 Sim2Real: Tips &amp; Tricks Slides ",
+    "url": "/#phase-1-race",
+    
+    "relUrl": "/#phase-1-race"
+  },"7": {
+    "doc": "Real-World Robot Learning",
+    "title": "Reinforcement Learning",
+    "content": "SEP 23 Intro to Reinforcement Learning Slides SEP 25 Policy Gradient Slides SEP 30 Actor Critic Slides OCT 2 Advanced Policy Gradient (NPG, TRPO, PPO) Slides OCT 7 Tutorial on RL Slides ",
+    "url": "/#reinforcement-learning",
+    
+    "relUrl": "/#reinforcement-learning"
+  },"8": {
+    "doc": "Real-World Robot Learning",
+    "title": "Imitation Learning",
+    "content": "OCT 9 Intro to Imitation Learning Slides OCT 14 Imitation Learning as Generative Modeling: AE; VAE, Diffusion Slides OCT 16 Behavioral Models Slides OCT 21 No Class Fall Break :fallen_leaf: OCT 23 Learning from Pre-Trained Models Slides OCT 28 Tutorial on Imitation Learning Slides OCT 30 Midterm ",
+    "url": "/#imitation-learning",
+    
+    "relUrl": "/#imitation-learning"
+  },"9": {
+    "doc": "Real-World Robot Learning",
+    "title": "Applications and Frontiers",
+    "content": "NOV 4 Guest Lecture I Slides NOV 6 Guest Lecture II Slides NOV 11 Race Day (Phase I) NOV 13 Guest Lecture III Slides NOV 18 Guest Lecture IV Slides NOV 20 Challenges ahead Slides NOV 25 The Illusion of Intelligence Slides NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Race Day (Phase II) ",
+    "url": "/#applications-and-frontiers",
+    
+    "relUrl": "/#applications-and-frontiers"
+  },"10": {
+    "doc": "Real-World Robot Learning",
+    "title": "Instructors",
+    "content": "Antonio Loquercio Dinesh Jayaraman ",
+    "url": "/#instructors",
+    
+    "relUrl": "/#instructors"
+  },"11": {
+    "doc": "Real-World Robot Learning",
+    "title": "Related Courses",
+    "content": "Robots that learn, UC Berkeley. Deep Reinforcement Learning: CMU version UC Berkeley version. Introduction to Robot Learning, CMU. Embodied AI Safety, CMU. This course is not only very interesting, but also has an awesome webpage. ",
+    "url": "/#related-courses",
+    
+    "relUrl": "/#related-courses"
+  },"12": {
+    "doc": "Schedule",
+    "title": "Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "/schedule/#weekly-schedule",
+    
+    "relUrl": "/schedule/#weekly-schedule"
+  },"13": {
+    "doc": "Schedule",
+    "title": "Monday",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"14": {
+    "doc": "Schedule",
+    "title": "Tuesday",
+    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"15": {
+    "doc": "Schedule",
+    "title": "Wednesday",
+    "content": "| ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"16": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": "| . ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"18": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/schedule/",
+    
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/staff/",
+    
+    "relUrl": "/staff/"
+  },"20": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": "Antonio Loquercio . aloque@seas.upenn.edu . Office Hours TBA . ",
+    "url": "/staff/#instructor",
+    
+    "relUrl": "/staff/#instructor"
+  },"21": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/syllabus/",
+    
+    "relUrl": "/syllabus/"
+  },"22": {
+    "doc": "Syllabus",
+    "title": "Table of Contents",
+    "content": ". | Textbooks | Attendance | Academic Integrity | Late Policy | Communication | Grading | Health &amp; Wellness | . ",
+    "url": "/syllabus/#table-of-contents",
+    
+    "relUrl": "/syllabus/#table-of-contents"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Textbooks",
+    "content": "There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. The following are companion textbooks that can provide useful further reading: . | Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction | Christopher Bishop and Hugh Bishop, Deep Learning: Foundations and Concepts | . ",
+    "url": "/syllabus/#textbooks",
+    
+    "relUrl": "/syllabus/#textbooks"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Attendance",
+    "content": "Class attendance and participation are key for both your and your peer’s success in this class. You are expected to attend class in person during the scheduled time, including the final presentations. I understand that occasionally you may have challenges attending (e.g., illness, religious observance, etc.). However, if you anticipate having a challenge regularly attending class, please contact us. ",
+    "url": "/syllabus/#attendance",
+    
+    "relUrl": "/syllabus/#attendance"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "Academic Integrity",
+    "content": "Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. We encourage you to work together on projects (teams up to 2) to make use of campus resources like Penn GSE Student Success to assist you in your pursuit of academic excellence. However, please note that in accord with the university’s policy you must acknowledge any collaboration or assistance that you receive on work that is to be graded, either from a person, reference, or a tool (including AI-generation tools like ChatGPT). ",
+    "url": "/syllabus/#academic-integrity",
+    
+    "relUrl": "/syllabus/#academic-integrity"
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Late Policy",
+    "content": "The only time when students have to submit something for this class is for the drone racing competition. The event will be live, so not submitting runnable code on time will be equivalent to a fail grade for the entire team. Not coming to the midterm or final exam will result to a fail grade. No exceptions will be granted. ",
+    "url": "/syllabus/#late-policy",
+    
+    "relUrl": "/syllabus/#late-policy"
+  },"27": {
+    "doc": "Syllabus",
+    "title": "Communication",
+    "content": ". | Website: We will use the class website for posting course content (e.g., slides). | Canvas: We will use Canvas for uploading all assignments. | Email: If you email your instructors, please include the substring “[RWRL Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account. | . ",
+    "url": "/syllabus/#communication",
+    
+    "relUrl": "/syllabus/#communication"
+  },"28": {
+    "doc": "Syllabus",
+    "title": "Grading",
+    "content": "Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race. ",
+    "url": "/syllabus/#grading",
+    
+    "relUrl": "/syllabus/#grading"
+  },"29": {
+    "doc": "Syllabus",
+    "title": "Health &amp; Wellness",
+    "content": "Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 215-746-WELL (9355) and visit their website at https://wellness.upenn.edu/student-health-and-counseling. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night: . CaPS: 215-746-WELL (9355) . ",
+    "url": "/syllabus/#health--wellness",
+    
+    "relUrl": "/syllabus/#health--wellness"
+  }
+}
