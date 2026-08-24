@@ -1,9 +1,9 @@
 ---
 name: Antonio Loquercio
 role: Instructor
-email: aloque@seas.upenn.edu
+email: aloque@engineering.upenn.edu
 website: https://antonilo.github.io/
 photo: al.jpeg
 meta:
-  Office Hours: 3:30-4:30 Fri (send an email. Registered students only.)
+  Office Hours: Book a time on Tue on Thu afternoon using the link provided on Canvas.
 ---

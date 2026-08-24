@@ -1,18 +1,30 @@
 ---
-title: Sim2Real 
+title: Algorithms. On-Policy, Off-Policy, and Model-Based.
 ---
 
-OCT 9
-: **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
+OCT 20
+: Advanced Policy Gradients
 
-OCT 14
-: Building a Simulator
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Building_Sim.pdf), [Tutorial](/physical_intelligence_fl25/assets/pdfs/simulator_tutorial.pdf)
+OCT 22
+: Advanced Policy Gradients 
 
-OCT 16
-: Sim2Real: Intro & Basics
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_sim2real.pdf), Race challenge is out
+OCT 27
+: Recitation and Quiz.
 
-OCT 21
-: Sim2Real: Tips & Tricks and Intro to Imitation Learning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_sim2real.pdf)
+OCT 29
+: Advanced Off-policy Learning 
+
+NOV 3
+: Advanced Off-policy Learning
+
+NOV 5
+: Recitation and Quiz.
+
+NOV 10
+: Advanced Model-based RL 
+
+NOV 12
+: Advanced Model-based RL
+
+NOV 17
+: Recitation and Quiz. **Intermediate Project Presentation**{: .label .label-blue}

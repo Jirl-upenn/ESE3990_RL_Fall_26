@@ -1,34 +1,21 @@
 ---
-title: Imitation Learning
---- 
+title: Applications and Frontiers
+---
 
-OCT 23
-: Imitation Learning as Generative Modeling: Flow-matching, Diffusion 
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/GenAI_tutorial.pdf)
+NOV 19
+: Multi-Task and Meta RL
 
-OCT 28
-: Introduction to Behavioral Cloning
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Intro_BC.pdf)
+NOV 24
+: Inverse RL
 
+NOV 26
+: **No Class**{: .label .label-purple} Thanksgiving :turkey:
 
-OCT 30
-: MidTerm 
+DEC 1
+: Case Study: RL on LLMs
 
-NOV 11
-: Behavioral Cloning Algorithms
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_BC_algorithms.pdf)
+DEC 3
+: Case Study: RL in Robotics.
 
-NOV 20
-: Behavioral Cloning and Foundation Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/ESE6510_Fall25_Foundation_Models_BC.pdf)
-
-
-<!-- OCT 23
-: Learning from Pre-Trained Models
-  : [Slides](/physical_intelligence_fl25/assets/pdfs/) -->
-
-
-
-
-
-
+DEC 7
+: Final Project Presentation

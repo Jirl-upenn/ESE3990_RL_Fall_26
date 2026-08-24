@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Physical Intelligence FL25
-description: Website for ESE6510
+title: Reinforcement Learning: In Theory and In Practice
+description: Website for ESE3990
 author: Antonio Loquercio
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://antonilo.github.io/physical_intelligence_fl25/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://jirl-upenn.github.io/ESE3990_RL_Fall_26/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 github: [metadata]
 
