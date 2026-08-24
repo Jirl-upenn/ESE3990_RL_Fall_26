@@ -39,7 +39,7 @@ This is a undergraduate-level course. Students are expected to have prior knowle
 
 <figure style="display: inline-flex;">
 <figure>
-<img src="/assets/images/al.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<img src="assets/images/al.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="https://antonilo.github.io/"><button type="button" name="button" class="btn">Antonio Loquercio</button>
 </a></figcaption>
 </figure>
