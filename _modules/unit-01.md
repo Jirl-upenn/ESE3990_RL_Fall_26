@@ -10,7 +10,7 @@ AUG 27
 : RL basic definitions
 
 SEP 3
-: MDPs
+: Markov Decision Processes
 
 SEP 8
 : Recitation and Quiz.
