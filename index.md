@@ -4,7 +4,7 @@ title: Home
 permalink: /:path/
 seo:
   type: Course
-  name: Reinforcement Learning: In Theory and In Practice
+  name: "Reinforcement Learning: In Theory and In Practice"
 ---
 
 # Reinforcement Learning: In Theory and In Practice
@@ -41,6 +41,17 @@ This is a undergraduate-level course. Students are expected to have prior knowle
 <figure>
 <img src="assets/images/al.jpeg" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
 <figcaption style="text-align: center;"><a href="https://antonilo.github.io/"><button type="button" name="button" class="btn">Antonio Loquercio</button>
+</a></figcaption>
+</figure>
+
+</figure>
+
+## Teaching Assistants
+
+<figure style="display: inline-flex;">
+<figure>
+<img src="assets/images/chunwei.png" alt="Avatar" style="width:200px; height:auto; object-fit: cover; border-radius:50%; padding:20px;">
+<figcaption style="text-align: center;"><a href="https://xingcw.github.io/"><button type="button" name="button" class="btn">Chunwei Xing</button>
 </a></figcaption>
 </figure>
 
