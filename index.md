@@ -70,8 +70,6 @@ This is a undergraduate-level course. Students are expected to have prior knowle
 
 Deep Reinforcement Learning: <a href="https://cmudeeprl.github.io/403website_s25/"> CMU version</a> <a href="https://rail.eecs.berkeley.edu/deeprlcourse/"> UC Berkeley version</a>.
 
-<a href="https://16-831-s24.github.io/"> Introduction to Robot Learning</a>, CMU.
-
 <a href="https://davidstarsilver.wordpress.com/teaching/"> Reinforcement Learning </a>, UCL. (The foundation part of our course is heavily based on this material).
 
 
