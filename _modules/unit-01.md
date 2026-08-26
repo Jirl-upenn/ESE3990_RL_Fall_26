@@ -8,6 +8,7 @@ AUG 25
 
 AUG 27
 : RL basic definitions
+  : [Slides](assets/pdfs/ESE3990_RL_Basic_Definitions.pdf)
 
 SEP 3
 : Markov Decision Processes
