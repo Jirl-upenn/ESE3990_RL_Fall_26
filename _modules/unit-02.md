@@ -15,10 +15,10 @@ SEP 22
 : Recitation and Quiz
 
 SEP 24
-: Policy Gradients
+: Value Function Approximation.
 
 SEP 29
-: Value Function Approximation.
+: Policy Gradients.
 
 OCT 1
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:

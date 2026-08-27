@@ -21,6 +21,9 @@ url: 'https://jirl-upenn.github.io/ESE3990_RL_Fall_26/' # the base hostname & pr
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 github: [metadata]
 
+plugins:
+  - jemoji
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 search_enabled: true

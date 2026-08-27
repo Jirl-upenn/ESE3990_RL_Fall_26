@@ -1,87 +1,87 @@
 {"0": {
-    "doc": "Real-World Robot Learning",
-    "title": "Real-World Robot Learning",
-    "content": "Spring 2025. ESE 6510. Tue / Thu 10:15-11:45. AGH X. ",
-    "url": "/",
+    "doc": "Home",
+    "title": "Reinforcement Learning: In Theory and In Practice",
+    "content": "Fall 2026. ESE 3990. Tue / Thu 10:15-11:45. DRLB 3C4 . ",
+    "url": "/#reinforcement-learning-in-theory-and-in-practice",
     
-    "relUrl": "/"
+    "relUrl": "/#reinforcement-learning-in-theory-and-in-practice"
   },"1": {
-    "doc": "Real-World Robot Learning",
+    "doc": "Home",
     "title": "Announcements",
     "content": " ",
     "url": "/#announcements",
     
     "relUrl": "/#announcements"
   },"2": {
-    "doc": "Real-World Robot Learning",
-    "title": "First day of class.",
-    "content": "Aug 26 &middot; 0 min read I will be giving a talk at the Meta workshop on egocentric perception on Aug 25-26. The first day of class will be after the workshop. ",
-    "url": "/",
-    
-    "relUrl": "/"
-  },"3": {
-    "doc": "Real-World Robot Learning",
+    "doc": "Home",
     "title": "Course Overview",
-    "content": "Why don’t we yet have a foundation model that can operate robots in the physical world? What makes applying the standard pre-training approach so uniquely challenging in robotics? And what recent advances are pushing the boundaries of what’s possible in real-world applications? . This course offers a structured framework to explore these questions. We will study the mathematical foundations of techniques for learning-based decision-making and examine how these methods are deployed in robotic systems. Through a combination of lectures, hands-on projects (including a drone race!), and guest presentations from leading experts in the field, students will gain a deep understanding of the state-of-the-art decision-making systems and their challenges when applied to robotics. Prerequisites . This is a graduate-level course. Students are expected to have prior knowledge in deep learning and robotics, such as the topics covered in Robot Learning (ESE 650), Applied Machine Learning (CIS 5190), and Introduction to Robotics (MEAM-520). ",
+    "content": "This course provides a comprehensive treatment of reinforcement learning, bridging the gap from classical foundations in dynamic programming and optimal control to the cutting edge of modern AI. Students will explore how agents learn optimal behaviors in possibly uncertain and partially observable environments. We will start from simple MDP and Bandit games and gradually build towards high-dimensional state spaces using deep neural networks for function approximation. Towards the end of the course, we will cover case studies in autonomous robotics and the fine-tuning of large language models (RLHF). At the end of this course, students will be equipped to use RL solutions for advanced applications and critically evaluate their performance, advantages, and limitations against alternative optimization methodologies. Prerequisites . This is a undergraduate-level course. Students are expected to have prior knowledge in linear algebra and geometry. Prior experience with deep learning will be beneficial but not necessary. ",
     "url": "/#course-overview",
     
     "relUrl": "/#course-overview"
-  },"4": {
-    "doc": "Real-World Robot Learning",
+  },"3": {
+    "doc": "Home",
     "title": "Schedule",
     "content": " ",
     "url": "/#schedule",
     
     "relUrl": "/#schedule"
-  },"5": {
-    "doc": "Real-World Robot Learning",
+  },"4": {
+    "doc": "Home",
     "title": "Foundation",
-    "content": "AUG 28 Intro Syllabus, Slides SEP 2 What is a Robot? Slides SEP 4 Intro to Probability I Slides SEP 9 Intro to Probability II Slides ",
+    "content": "AUG 25 Logistics and probability review Slides. Notes AUG 27 RL basic definitions Slides SEP 3 Markov Decision Processes SEP 8 Recitation and Quiz. ",
     "url": "/#foundation",
     
     "relUrl": "/#foundation"
+  },"5": {
+    "doc": "Home",
+    "title": "Foundations of Reinforcement Learning",
+    "content": "SEP 10 Planning by Dynamic Programming SEP 15 Model-free Value Prediction SEP 17 Model-free Control SEP 22 Recitation and Quiz SEP 24 Value Function Approximation. SEP 29 Policy Gradients. OCT 1 No Class Fall Break :fallen_leaf: OCT 6 Model-based RL OCT 8 Exploration and Exploitation OCT 13 Recitation and Quiz. OCT 15 Midterm. ",
+    "url": "/#foundations-of-reinforcement-learning",
+    
+    "relUrl": "/#foundations-of-reinforcement-learning"
   },"6": {
-    "doc": "Real-World Robot Learning",
-    "title": "Phase 1 Race",
-    "content": "SEP 11 Building a Simulator Slides SEP 16 Sim2Real: Intro &amp; Basics Slides Race challenge is out . SEP 18 Sim2Real: Tips &amp; Tricks Slides ",
-    "url": "/#phase-1-race",
+    "doc": "Home",
+    "title": "Algorithms. On-Policy, Off-Policy, and Model-Based.",
+    "content": "OCT 20 Advanced Policy Gradients OCT 22 Advanced Policy Gradients OCT 27 Recitation and Quiz. OCT 29 Advanced Off-policy Learning NOV 3 Advanced Off-policy Learning NOV 5 Recitation and Quiz. NOV 10 Advanced Model-based RL NOV 12 Advanced Model-based RL NOV 17 Recitation and Quiz. Intermediate Project Presentation ",
+    "url": "/#algorithms-on-policy-off-policy-and-model-based",
     
-    "relUrl": "/#phase-1-race"
+    "relUrl": "/#algorithms-on-policy-off-policy-and-model-based"
   },"7": {
-    "doc": "Real-World Robot Learning",
-    "title": "Reinforcement Learning",
-    "content": "SEP 23 Intro to Reinforcement Learning Slides SEP 25 Policy Gradient Slides SEP 30 Actor Critic Slides OCT 2 Advanced Policy Gradient (NPG, TRPO, PPO) Slides OCT 7 Tutorial on RL Slides ",
-    "url": "/#reinforcement-learning",
-    
-    "relUrl": "/#reinforcement-learning"
-  },"8": {
-    "doc": "Real-World Robot Learning",
-    "title": "Imitation Learning",
-    "content": "OCT 9 Intro to Imitation Learning Slides OCT 14 Imitation Learning as Generative Modeling: AE; VAE, Diffusion Slides OCT 16 Behavioral Models Slides OCT 21 No Class Fall Break :fallen_leaf: OCT 23 Learning from Pre-Trained Models Slides OCT 28 Tutorial on Imitation Learning Slides OCT 30 Midterm ",
-    "url": "/#imitation-learning",
-    
-    "relUrl": "/#imitation-learning"
-  },"9": {
-    "doc": "Real-World Robot Learning",
+    "doc": "Home",
     "title": "Applications and Frontiers",
-    "content": "NOV 4 Guest Lecture I Slides NOV 6 Guest Lecture II Slides NOV 11 Race Day (Phase I) NOV 13 Guest Lecture III Slides NOV 18 Guest Lecture IV Slides NOV 20 Challenges ahead Slides NOV 25 The Illusion of Intelligence Slides NOV 27 No Class Thanksgiving :turkey: DEC 2 Recitation DEC 4 Race Day (Phase II) ",
+    "content": "NOV 19 Multi-Task and Meta RL NOV 24 Inverse RL NOV 26 No Class Thanksgiving :turkey: DEC 1 Case Study: RL on LLMs DEC 3 Case Study: RL in Robotics. DEC 7 Final Project Presentation ",
     "url": "/#applications-and-frontiers",
     
     "relUrl": "/#applications-and-frontiers"
-  },"10": {
-    "doc": "Real-World Robot Learning",
+  },"8": {
+    "doc": "Home",
     "title": "Instructors",
-    "content": "Antonio Loquercio Dinesh Jayaraman ",
+    "content": "Antonio Loquercio ",
     "url": "/#instructors",
     
     "relUrl": "/#instructors"
-  },"11": {
-    "doc": "Real-World Robot Learning",
+  },"9": {
+    "doc": "Home",
+    "title": "Teaching Assistants",
+    "content": "Chunwei Xing ",
+    "url": "/#teaching-assistants",
+    
+    "relUrl": "/#teaching-assistants"
+  },"10": {
+    "doc": "Home",
     "title": "Related Courses",
-    "content": "Robots that learn, UC Berkeley. Deep Reinforcement Learning: CMU version UC Berkeley version. Introduction to Robot Learning, CMU. Embodied AI Safety, CMU. This course is not only very interesting, but also has an awesome webpage. ",
+    "content": "Deep Reinforcement Learning: CMU version UC Berkeley version. Reinforcement Learning , UCL. (The foundation part of our course is heavily based on this material). ",
     "url": "/#related-courses",
     
     "relUrl": "/#related-courses"
+  },"11": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
   },"12": {
     "doc": "Schedule",
     "title": "Weekly Schedule",
@@ -99,7 +99,7 @@
   },"14": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM DRLB 3C4 | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
@@ -113,7 +113,7 @@
   },"16": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Lecture 10:15 AM–11:45 AM TODO | . | ",
+    "content": ". | Lecture 10:15 AM–11:45 AM DRLB 3C4 | . | ",
     "url": "/schedule/",
     
     "relUrl": "/schedule/"
@@ -141,67 +141,81 @@
   },"20": {
     "doc": "Staff",
     "title": "Instructor",
-    "content": "Antonio Loquercio . aloque@seas.upenn.edu . Office Hours TBA . ",
+    "content": "Antonio Loquercio . aloque@engineering.upenn.edu . Office Hours Book a time on Tue on Thu afternoon using the link provided on Ed. ",
     "url": "/staff/#instructor",
     
     "relUrl": "/staff/#instructor"
   },"21": {
+    "doc": "Staff",
+    "title": "Teaching Assistant",
+    "content": "Chunwei Xing . chxing@engineering.upenn.edu . Office Hours Wed and Fri, 3-4pm. ",
+    "url": "/staff/#teaching-assistant",
+    
+    "relUrl": "/staff/#teaching-assistant"
+  },"22": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/syllabus/",
     
     "relUrl": "/syllabus/"
-  },"22": {
+  },"23": {
     "doc": "Syllabus",
     "title": "Table of Contents",
-    "content": ". | Textbooks | Attendance | Academic Integrity | Late Policy | Communication | Grading | Health &amp; Wellness | . ",
+    "content": ". | Textbooks | Attendance | Holiday Policy | Academic Integrity | Late Policy | Communication | Grading | Health &amp; Wellness | . ",
     "url": "/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"23": {
+  },"24": {
     "doc": "Syllabus",
     "title": "Textbooks",
-    "content": "There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. The following are companion textbooks that can provide useful further reading: . | Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction | Christopher Bishop and Hugh Bishop, Deep Learning: Foundations and Concepts | . ",
+    "content": "There is no need buy any textbook for this course. We will provide slides or lecture notes in this course. A lot of the material we cover originates from the following two books: . | Richard S. Sutton and Andrew G. Barto, Reinforcement Learning: An Introduction | Christopher Bishop and Hugh Bishop, Deep Learning: Foundations and Concepts | . ",
     "url": "/syllabus/#textbooks",
     
     "relUrl": "/syllabus/#textbooks"
-  },"24": {
+  },"25": {
     "doc": "Syllabus",
     "title": "Attendance",
     "content": "Class attendance and participation are key for both your and your peer’s success in this class. You are expected to attend class in person during the scheduled time, including the final presentations. I understand that occasionally you may have challenges attending (e.g., illness, religious observance, etc.). However, if you anticipate having a challenge regularly attending class, please contact us. ",
     "url": "/syllabus/#attendance",
     
     "relUrl": "/syllabus/#attendance"
-  },"25": {
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Holiday Policy",
+    "content": "This course will follow the University Policy on Secular &amp; Religious Holidays which can be found in the PennBook. No exams or assigned work will be required on those holidays listed in sections 1 &amp; 2 of the policy. Students who plan to observe any other holiday should contact the instructor within the first two weeks of class so that alternative arrangements can be made. ",
+    "url": "/syllabus/#holiday-policy",
+    
+    "relUrl": "/syllabus/#holiday-policy"
+  },"27": {
     "doc": "Syllabus",
     "title": "Academic Integrity",
-    "content": "Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. We encourage you to work together on projects (teams up to 2) to make use of campus resources like Penn GSE Student Success to assist you in your pursuit of academic excellence. However, please note that in accord with the university’s policy you must acknowledge any collaboration or assistance that you receive on work that is to be graded, either from a person, reference, or a tool (including AI-generation tools like ChatGPT). ",
+    "content": "Honesty and transparency are important features of good scholarship. On the flip side, plagiarism and cheating are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. We encourage you to make use of campus resources like Penn GSE Student Success to assist you in your pursuit of academic excellence. However, please note that in accord with the university’s policy you must acknowledge any collaboration or assistance that you receive on work that is to be graded, either from a person, reference, or a tool (including AI-generation tools like ChatGPT). ",
     "url": "/syllabus/#academic-integrity",
     
     "relUrl": "/syllabus/#academic-integrity"
-  },"26": {
+  },"28": {
     "doc": "Syllabus",
     "title": "Late Policy",
-    "content": "The only time when students have to submit something for this class is for the drone racing competition. The event will be live, so not submitting runnable code on time will be equivalent to a fail grade for the entire team. Not coming to the midterm or final exam will result to a fail grade. No exceptions will be granted. ",
+    "content": "The only time when students have to submit something for this class is for the final presentation. The event will be live, so not presenting on time will be equivalent to a fail grade. Not coming to the midterm will result to a fail grade. No exceptions will be granted. ",
     "url": "/syllabus/#late-policy",
     
     "relUrl": "/syllabus/#late-policy"
-  },"27": {
+  },"29": {
     "doc": "Syllabus",
     "title": "Communication",
-    "content": ". | Website: We will use the class website for posting course content (e.g., slides). | Canvas: We will use Canvas for uploading all assignments. | Email: If you email your instructors, please include the substring “[RWRL Course]” to begin a meaningful subject line and have tried to resolve the issue appropriately otherwise. Please use your UPenn email account. | . ",
+    "content": ". | Website: We will use the class website for posting course content (e.g., slides). | Canvas: We will use Canvas for uploading all assignments. | . ",
     "url": "/syllabus/#communication",
     
     "relUrl": "/syllabus/#communication"
-  },"28": {
+  },"30": {
     "doc": "Syllabus",
     "title": "Grading",
-    "content": "Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your performance in the drone race. ",
+    "content": "Grading details will be provided in the slides from the first class. Overall, your final grade will be based on a combination of exams and your project presentation. ",
     "url": "/syllabus/#grading",
     
     "relUrl": "/syllabus/#grading"
-  },"29": {
+  },"31": {
     "doc": "Syllabus",
     "title": "Health &amp; Wellness",
     "content": "Take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 215-746-WELL (9355) and visit their website at https://wellness.upenn.edu/student-health-and-counseling. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help. If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night: . CaPS: 215-746-WELL (9355) . ",
