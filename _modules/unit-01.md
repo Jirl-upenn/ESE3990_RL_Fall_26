@@ -12,6 +12,7 @@ AUG 27
 
 SEP 3
 : Markov Decision Processes
+  : [Slides](assets/pdfs/ESE3990_MDPs.pdf)
 
 SEP 8
 : Recitation and Quiz.
