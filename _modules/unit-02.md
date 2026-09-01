@@ -21,21 +21,18 @@ SEP 24
 : Policy Gradients.
 
 SEP 29
-: Recitation and Quiz.
+: Model-based RL.
 
 OCT 1
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
 OCT 6
-: Model-based RL.
-
-OCT 8
 : Exploration and Exploitation.
 
-OCT 13
+OCT 8
 : Fundamentals Recitation (No Quiz)
 
-OCT 15
+OCT 13
 : Midterm.
 
 
