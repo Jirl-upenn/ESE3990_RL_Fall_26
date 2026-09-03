@@ -5,5 +5,5 @@ email: chxing@engineering.upenn.edu
 website: https://xingcw.github.io/
 photo: chunwei.png
 meta:
-  Office Hours: Wed and Fri, 3-4pm.
+  Office Hours: Wed and Fri, 3-4pm. Amy Gutmann Hall, Room 331.
 ---
