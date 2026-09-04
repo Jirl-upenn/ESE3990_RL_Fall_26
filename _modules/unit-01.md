@@ -16,3 +16,4 @@ SEP 1
 
 SEP 3
 : Recitation and Quiz.
+  : [Slides](assets/pdfs/ESE3990_Recitation_1.pdf)
