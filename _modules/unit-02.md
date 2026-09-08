@@ -4,6 +4,7 @@ title: Foundations of Reinforcement Learning
 
 SEP 8
 : Planning by Dynamic Programming
+  : [Slides](assets/pdfs/ESE3990_DP.pdf)
 
 SEP 10
 : Model-free Value Prediction
