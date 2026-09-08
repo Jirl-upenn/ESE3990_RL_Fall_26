@@ -2323,12 +2323,12 @@ blockquote.announcement-title > p:last-child { margin-bottom: 0; }
 @media (min-width: 66.5rem) { .main-content .module > dl, .module > dl { grid-template-columns: 1fr 7fr; } }
 .main-content .module > dl > dt, .main-content .module > dl > dd, .main-content .module > dl > dt, .module > dl > dt, .main-content .module > dl > dd, .module > dl > dd { margin: 0; padding: 0.5rem; }
 @media (min-width: 31.25rem) { .main-content .module > dl > dt, .main-content .module > dl > dd, .main-content .module > dl > dt, .module > dl > dt, .main-content .module > dl > dd, .module > dl > dd { padding: 0.5rem 1rem; } }
-.main-content .module > dl > dt, .module > dl > dt { border-top: 1px solid #eeebee; font-weight: normal; text-align: right; }
+.main-content .module > dl > dt, .module > dl > dt { border-top: 1px solid #eeebee; font-weight: normal; text-align: right; white-space: nowrap; }
 .main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #eeebee; }
 .main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }
 .main-content .module > dl > dt:first-child + dd, .module > dl > dt:first-child + dd { border-top: none; }
 .main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }
-.main-content .module > dl > dd + dd, .module > dl > dd + dd { padding-top: 0; }
+.main-content .module > dl > dd, .module > dl > dd { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .main-content .module > dl > dd ol, .main-content .module > dl > dd ul, .main-content .module > dl > dd dl, .module > dl > dd ol, .module > dl > dd ul, .module > dl > dd dl { margin: 0; }
 .main-content .module > dl > dd dl, .module > dl > dd dl { display: flex; flex-direction: column; }
 @media (min-width: 31.25rem) { .main-content .module > dl > dd dl, .module > dl > dd dl { flex-direction: row; } }

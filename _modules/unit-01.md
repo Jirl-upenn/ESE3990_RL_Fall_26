@@ -4,15 +4,15 @@ title: Foundation
 
 AUG 25
 : Logistics and probability review
-  : [Slides](assets/pdfs/ESE3990_Intro.pdf). [Notes](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf)
+  : [Slides](assets/pdfs/ESE3990_Intro.pdf) • [Notes](https://github.com/NaoPross/RecursiveEstimation/blob/master/RecursiveEstimation.pdf)
 
 AUG 27
 : RL basic definitions
-  : [Slides](assets/pdfs/ESE3990_RL_Basic_Definitions.pdf)
+  : [Slides](assets/pdfs/ESE3990_RL_Basic_Definitions.pdf) • Reading: S&B, Ch. 1–2.
 
 SEP 1
 : Markov Decision Processes
-  : [Slides](assets/pdfs/ESE3990_MDPs.pdf)
+  : [Slides](assets/pdfs/ESE3990_MDPs.pdf) • Reading: S&B, Ch. 3.
 
 SEP 3
 : Recitation and Quiz.
