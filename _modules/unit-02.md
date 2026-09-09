@@ -7,34 +7,38 @@ SEP 8
   : [Slides](assets/pdfs/ESE3990_DP.pdf) • Reading: S&B, Ch. 4.
 
 SEP 10
-: Model-free Value Prediction
+: Dynamic Programming (II) and Model-free Value Prediction
+  : [Slides (DP)](assets/pdfs/ESE3990_DP_v2.pdf), [Slides (DP)](assets/pdfs/ESE3990_Model-free-Prediction.pdf) • Reading: S&B, Ch. 5-6.
 
 SEP 15
-: Model-free Control
+: Model-free Value Prediction (II) 
 
 SEP 17
-: Recitation and Quiz
+: Model-free Control 
 
 SEP 22
-: Value Function Approximation.
+: Second Quiz + Recitation
 
 SEP 24
-: Policy Gradients.
+: Value Function Approximation.
 
 SEP 29
-: Model-based RL.
+: Policy Gradients (I)
 
 OCT 1
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
 OCT 6
-: Exploration and Exploitation.
+: Policy Gradients (II) 
 
 OCT 8
-: Fundamentals Recitation (No Quiz)
+: Model-Based RL  
 
 OCT 13
-: Midterm.
+: Fundamentals Recitation (No Quiz) 
+
+OCT 15
+: Midterm 
 
 
 

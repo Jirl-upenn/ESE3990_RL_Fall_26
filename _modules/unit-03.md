@@ -1,14 +1,12 @@
 ---
 title: Algorithms. On-Policy, Off-Policy, and Model-Based.
 ---
-OCT 15
-: Advanced Policy Gradients
 
 OCT 20
 : Advanced Policy Gradients
 
 OCT 22
-: Recitation and Quiz.
+: Advanced Policy Gradients
 
 OCT 27
 : Advanced Off-policy Learning
