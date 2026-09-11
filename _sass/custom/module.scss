@@ -67,9 +67,8 @@
 
     >dd {
       @extend %module-item;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      min-width: 0;
+      overflow-wrap: anywhere;
 
       ol, ul, dl {
         margin: 0;

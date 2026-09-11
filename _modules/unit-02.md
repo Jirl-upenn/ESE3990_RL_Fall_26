@@ -3,12 +3,12 @@ title: Foundations of Reinforcement Learning
 ---
 
 SEP 8
-: Planning by Dynamic Programming
+: Planning by Dynamic Programming (DP)
   : [Slides](assets/pdfs/ESE3990_DP.pdf) • Reading: S&B, Ch. 4.
 
 SEP 10
-: Dynamic Programming (II) and Model-free Value Prediction
-  : [Slides (DP)](assets/pdfs/ESE3990_DP_v2.pdf), [Slides (DP)](assets/pdfs/ESE3990_Model-free-Prediction.pdf) • Reading: S&B, Ch. 5-6.
+: DP (II) and Model-free Prediction
+  : [Slides (DP)](assets/pdfs/ESE3990_DP_v2.pdf), [Slides (MfP)](assets/pdfs/ESE3990_Model-free-Prediction.pdf) • Reading: S&B, Ch. 5-6.
 
 SEP 15
 : Model-free Value Prediction (II) 

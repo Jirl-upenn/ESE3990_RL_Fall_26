@@ -36,14 +36,14 @@
   },"5": {
     "doc": "Home",
     "title": "Foundations of Reinforcement Learning",
-    "content": "SEP 8 Planning by Dynamic Programming Slides • Reading: S&amp;B, Ch. 4. SEP 10 Model-free Value Prediction SEP 15 Model-free Control SEP 17 Recitation and Quiz SEP 22 Value Function Approximation. SEP 24 Policy Gradients. SEP 29 Model-based RL. OCT 1 No Class Fall Break :fallen_leaf: OCT 6 Exploration and Exploitation. OCT 8 Fundamentals Recitation (No Quiz) OCT 13 Midterm. ",
+    "content": "SEP 8 Planning by Dynamic Programming (DP) Slides • Reading: S&amp;B, Ch. 4. SEP 10 DP (II) and Model-free Prediction Slides (DP), Slides (MfP) • Reading: S&amp;B, Ch. 5-6. SEP 15 Model-free Value Prediction (II) SEP 17 Model-free Control SEP 22 Second Quiz + Recitation SEP 24 Value Function Approximation. SEP 29 Policy Gradients (I) OCT 1 No Class Fall Break :fallen_leaf: OCT 6 Policy Gradients (II) OCT 8 Model-Based RL OCT 13 Fundamentals Recitation (No Quiz) OCT 15 Midterm ",
     "url": "/#foundations-of-reinforcement-learning",
     
     "relUrl": "/#foundations-of-reinforcement-learning"
   },"6": {
     "doc": "Home",
     "title": "Algorithms. On-Policy, Off-Policy, and Model-Based.",
-    "content": "OCT 15 Advanced Policy Gradients OCT 20 Advanced Policy Gradients OCT 22 Recitation and Quiz. OCT 27 Advanced Off-policy Learning OCT 29 Advanced Off-policy Learning NOV 3 Recitation and Quiz. NOV 5 Advanced Model-based RL NOV 10 Advanced Model-based RL NOV 12 Recitation and Quiz. Intermediate Project Presentation ",
+    "content": "OCT 20 Advanced Policy Gradients OCT 22 Advanced Policy Gradients OCT 27 Advanced Off-policy Learning OCT 29 Advanced Off-policy Learning NOV 3 Recitation and Quiz. NOV 5 Advanced Model-based RL NOV 10 Advanced Model-based RL NOV 12 Recitation and Quiz. Intermediate Project Presentation ",
     "url": "/#algorithms-on-policy-off-policy-and-model-based",
     
     "relUrl": "/#algorithms-on-policy-off-policy-and-model-based"
