@@ -12,6 +12,7 @@ SEP 10
 
 SEP 15
 : Model-free Value Prediction (II) 
+  : [Slides (MfP)](assets/pdfs/ESE3990_Model-free-Prediction-V2.pdf) • Reading: S&B, Ch. 5-6.
 
 SEP 17
 : Model-free Control 
