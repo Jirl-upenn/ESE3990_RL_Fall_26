@@ -16,6 +16,7 @@ SEP 15
 
 SEP 17
 : Model-free Control 
+  : [Slides](assets/pdfs/ESE3990_Model-free-Control.pdf)• Reading: S&B, Ch. 6
 
 SEP 22
 : Second Quiz + Recitation
