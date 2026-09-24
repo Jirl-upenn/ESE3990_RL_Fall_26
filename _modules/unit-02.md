@@ -22,25 +22,29 @@ SEP 22
 : Second Quiz + Recitation
 
 SEP 24
-: Value Function Approximation.
+: Off-Policy Learning
+  : [Slides](assets/pdfs/ESE3990_Off-policy-learning.pdf) • Reading: S&B, Ch. 5-6
 
 SEP 29
-: Policy Gradients (I)
+: Value Function Approximation
 
 OCT 1
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
 
 OCT 6
-: Policy Gradients (II) 
+: Policy Gradients (I) 
 
 OCT 8
-: Model-Based RL  
+: Policy Gradients (II) 
 
 OCT 13
-: Fundamentals Recitation (No Quiz) 
+: Model-based RL
 
 OCT 15
-: Midterm 
+: Fundamentals Recitation (No Quiz)
+
+OCT 20
+: Midterm
 
 
 
