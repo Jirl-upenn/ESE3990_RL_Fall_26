@@ -27,6 +27,7 @@ SEP 24
 
 SEP 29
 : Value Function Approximation
+  : [Slides](assets/pdfs/ESE3990_Value_Function_Approximation.pdf)• Reading: S&B, Ch. 9
 
 OCT 1
 : **No Class**{: .label .label-purple} Fall Break :fallen_leaf:
