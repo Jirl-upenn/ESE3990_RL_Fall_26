@@ -34,6 +34,7 @@ OCT 1
 
 OCT 6
 : Policy Gradients (I) 
+  : [Slides](assets/pdfs/ESE3990_Policy_Gradients.pdf)
 
 OCT 8
 : Policy Gradients (II) 
