@@ -38,6 +38,7 @@ OCT 6
 
 OCT 8
 : Policy Gradients (II) 
+  : [Slides](assets/pdfs/ESE3990_Policy_Gradients_V2.pdf)
 
 OCT 13
 : Model-based RL
