@@ -34,11 +34,11 @@ OCT 1
 
 OCT 6
 : Policy Gradients (I) 
-  : [Slides](assets/pdfs/ESE3990_Policy_Gradients.pdf)
+  : [Slides](assets/pdfs/ESE3990_Policy_Gradients.pdf) • Reading: S&B, Ch. 13
 
 OCT 8
 : Policy Gradients (II) 
-  : [Slides](assets/pdfs/ESE3990_Policy_Gradients_V2.pdf)
+  : [Slides](assets/pdfs/ESE3990_Policy_Gradients_V2.pdf) • Reading: S&B, Ch. 13
 
 OCT 13
 : Model-based RL
