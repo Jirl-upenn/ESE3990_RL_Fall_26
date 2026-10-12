@@ -42,6 +42,7 @@ OCT 8
 
 OCT 13
 : Model-based RL
+  : [Slides](assets/pdfs/ESE3990_Model-based-RL.pdf) • Reading: S&B, Ch. 8
 
 OCT 15
 : Fundamentals Recitation (No Quiz)
