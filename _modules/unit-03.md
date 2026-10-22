@@ -4,6 +4,7 @@ title: Algorithms. On-Policy, Off-Policy, and Model-Based.
 
 OCT 22
 : Advanced Policy Gradients
+  : [Slides](assets/pdfs/ESE3990_Off-Policy-PG.pdf)
 
 OCT 27
 : Advanced Policy Gradients
