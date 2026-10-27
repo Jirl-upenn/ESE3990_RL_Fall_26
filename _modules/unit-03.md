@@ -9,6 +9,7 @@ OCT 22
 OCT 27
 : Advanced Policy Gradients
   : [Slides](assets/pdfs/ESE3990_Advanced-PG.pdf)
+  
 OCT 29
 : Advanced Off-policy Learning
 
