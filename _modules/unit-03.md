@@ -9,9 +9,10 @@ OCT 22
 OCT 27
 : Advanced Policy Gradients
   : [Slides](assets/pdfs/ESE3990_Advanced-PG.pdf)
-  
+
 OCT 29
 : Advanced Off-policy Learning
+  : [Slides](assets/pdfs/ESE3990_Advanced_Off_Policy_Learning.pdf) • Reading: S&B, Ch. 11.
 
 Nov 3
 : Advanced Off-policy Learning
