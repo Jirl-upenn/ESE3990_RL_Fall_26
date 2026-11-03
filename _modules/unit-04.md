@@ -6,16 +6,16 @@ NOV 17
 : Multi-Task and Meta RL
 
 NOV 19
-: Inverse RL
+: Reward Design and Inverse RL
 
 NOV 24
-: Case Study: RL on LLMs
+: Case Study: RL in Robotics
 
 NOV 26
 : **No Class**{: .label .label-purple} Thanksgiving :turkey:
 
 DEC 1
-: Case Study: RL in Robotics.
+: Case Study: RL on LLMs
 
 DEC 3
 : Final Project Presentation
