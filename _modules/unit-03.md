@@ -17,9 +17,10 @@ OCT 29
 Nov 3
 : Advanced Off-policy Learning
   : [Slides](assets/pdfs/ESE3990_Continous_Control_Off-Policypptx.pdf)
-  
+
 NOV 5
 : Advanced Model-based RL
+  : [Slides](assets/pdfs/ESE3990_Advanced-Model-based.pdf)
 
 NOV 10
 : Advanced Model-based RL
