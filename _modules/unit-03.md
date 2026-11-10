@@ -24,6 +24,7 @@ NOV 5
 
 NOV 10
 : Advanced Model-based RL
+  : [Slides](assets/pdfs/ESE3990_Advanced-Model-based-V2.pdf)
 
 NOV 12
 : Recitation and Quiz. **Intermediate Project Presentation**{: .label .label-blue}
