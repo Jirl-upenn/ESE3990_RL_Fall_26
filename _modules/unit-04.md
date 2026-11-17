@@ -3,10 +3,11 @@ title: Applications and Frontiers
 ---
 
 NOV 17
-: Multi-Task and Meta RL
+: Inverse RL and Reward Design
+  : [Slides](assets/pdfs/ESE3990_Reward_Design.pdf)
 
 NOV 19
-: Reward Design and Inverse RL
+: Meta-RL and Multi-Task RL
 
 NOV 24
 : Case Study: RL in Robotics
